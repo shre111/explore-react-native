@@ -9,6 +9,7 @@ yarn.lock
 android/.gradle/
 android/app/build/
 android/build/
+android/app/.cxx/
 
 # React Native iOS build files
 ios/Pods/
